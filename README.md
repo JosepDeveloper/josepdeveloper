@@ -44,7 +44,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=josepdeveloper&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img src="https://streak-stats.demolab.com/?user=josepDeveloper&theme=dark" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=JosepDeveloper&theme=dark" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
