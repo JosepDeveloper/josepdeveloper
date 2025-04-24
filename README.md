@@ -29,8 +29,6 @@
 - 🔭 I’m currently working on **JavaScript, NodeJS, React, NextJS.**
 
 - 🌱 I’m currently learning **React Native, Expo, and mobile development best practices for building scalable cross-platform apps.**
-
-- 🎮 I’m also interested in learning **game development with Godot.**
   
 - 🎨 I’m exploring **Canvas and Three.js** for creating interactive and 3D web experiences.
 <!--Intro end-->
