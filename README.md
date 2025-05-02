@@ -72,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,vitest,postgres,prisma,pnpm,express,github,html,js,npm,linux,md,vite,materialui,nextjs,nodejs,postman,react,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,vitest,postgres,prisma,pnpm,express,github,html,js,npm,linux,md,vite,materialui,go,nextjs,nodejs,postman,react,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 <!--profile visit count-->
