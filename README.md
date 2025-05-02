@@ -31,6 +31,8 @@
 - 🌱 I’m currently learning **React Native, Expo, and mobile development best practices for building scalable cross-platform apps.**
   
 - 🎨 I’m exploring **Canvas and Three.js** for creating interactive and 3D web experiences.
+
+- 🚀 Learning Go for Backend & Desktop Apps (Wails)
 <!--Intro end-->
 
 
